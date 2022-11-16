@@ -1,0 +1,59 @@
+Curso de python con Frameworks
+
+Video #1 : intalacion de python
+Video #2 : instalacion de pycharm (pycharm community) (IDE) jetbrains.com\
+
+Video #3 : Introduccion a python desarrolllo web ide, multiplataforma, simplicidad de sintaxis
+
+Video #4: (carpeta "cursos" - Leccion 01")
+           enviroment virtualenv
+           venv
+             main.py
+              code// print("Hola Mundo con Python")
+Video #5-#6 : saludo a la consola use python
+           main.py
+             print ('Este es mi saludo desde                       python')
+
+Video #7 : Variables: Almacenar informacion temporal tantas veces como se requiera, cadenas, valorres numericos, etc.
+       Variables de cadena
+           main.py
+             miVariable = "hola desde python"
+             print (miVariable)
+           (runmain//ctrl-shift-F10)
+
+       Variables numericas
+             miVariable = 2
+             print (miVariable)
+             miVariable = 10
+             print (miVariable)
+
+Video #8 : Variables part2 (reformanfile: corrige)
+           main.py
+             x = 10
+             y = 2
+             z = x + y      direcciones de memoria
+             print (x)      almacena las varibles
+             print (y)
+             print (z)
+Video #9 : Variables part3: los valores de las variables se almacenan en la memoria ram (direccioon de memoria)
+los valores son llamados literales.
+
+           main.py
+             x = 10
+             y = 2
+             z = x + y
+             print (x)
+             print (y)
+             print (z)
+             print (id (x))
+             print (id (y))
+             print (id (z))
+                            posicion de memoria en
+                            donde se encuentra la variable x
+las direcciones de memoria son valores decimales se les antepone una x las direcciones esta en constante movimiento
+
+Video #10 : Ejercio 3 variables
+          main.py
+             Juan Perez
+             556218117 (num telofono)
+             jperez@gmail.com

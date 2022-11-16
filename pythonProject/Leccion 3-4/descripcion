@@ -1,0 +1,94 @@
+Leccion 3
+
+Video #1-13: Tipos de datos en Python
+Numeric, Dictionary, Bolean, Set, Secuance type
+
+Numeric, Bolea, String
+X = 10
+print (x)
+print(type (x)) (demuestre el tipo de dato en pantalla)
+
+X: str = 10 (indicacion)
+print (type(X))  += int
+
+Video #2-14 : tipos de datos en python (poner en practica los tipos de datos vistos
+
+Video #3-15 : Manejo de cadenas
+concatenar cadenas
+miGrupoFavorito = "Aerosmith" /+ " the best rock band"
+pritn ("Mi grupo favorito es: " + miGrupoFavorito)
+
+Video #4-16: manejo de cadenas 2
+miGrupoFavorito =
+comentario =
+pritn ("Mi grupo favorito es: ", miGrupoFavorito) coma
+
+numero1 = "1"
+numero2 = "2"  varibles tipo str suma de los str no de
+               los valores
+str(x), int(x), float(x) ---- conversion de datos
+
+cocatenacion, conversion
+Video #12 : Solucion del ejercicio
+
+Leccion 3
+
+Video #1-13: Tipos de datos en Python
+Numeric, Dictionary, Bolean, Set, Secuance type
+
+Numeric, Bolea, String
+X = 10
+print (x)
+print(type (x)) (demuestre el tipo de dato en pantalla)
+
+X: str = 10 (indicacion)
+print (type(X))  += int
+
+Video #2-14 : tipos de datos en python (poner en practica los tipos de datos vistos
+
+Video #3-15 : Manejo de cadenas
+concatenar cadenas
+miGrupoFavorito = "Aerosmith" /+ " the best rock band"
+pritn ("Mi grupo favorito es: " + miGrupoFavorito)
+
+Video #4-16: manejo de cadenas 2
+miGrupoFavorito =
+comentario =
+pritn ("Mi grupo favorito es: ", miGrupoFavorito) coma
+
+numero1 = "1"
+numero2 = "2"  varibles tipo str suma de los str no de
+               los valores
+str(x), int(x), float(x) ---- conversion de datos
+
+cocatenacion, conversion
+
+
+Video #5-17 : Tipos booleanos saber si el valor es verdadero o falso, tipos bool
+vari = True // False
+print (vari)
+
+vari = 3 > 2  (---True)      //      vari = 3 < 2  (---False)
+
+if vari:
+   print (" Es verdaero")
+else:keyword
+  print ("Es Falso")
+
+Video #6-18 : Entrada del Usuario, funcion input
+resulto = input("Escribe un mensaje")
+print ("valor proporcionado", resultado)
+print ("final del programa")
+
+Video #7-19 : Conversion de la entrada de datos procesar calores devuelve str, convertir valores a int, concatenar
+## realizar una suma
+resulto1 = int(input("Escribe el primer numero: "))
+resulto2 = int(input("Escribe el segundo numero: "))
+resultado = resulto1 + resulto2
+print ("valor proporcionado", resultado)
+print ("final del programa")
+
+Video #8-20: Calificar tu dia del 1 al 10 (EJERCICIO)
+
+
+

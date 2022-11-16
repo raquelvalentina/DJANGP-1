@@ -1,0 +1,8 @@
+video 1-42:  sentencia if else boleana verdadero o falso, selecicion del camino.
+
+condi = True
+
+if condi:
+    print("vaerdadera")
+else:
+    ("falsa")

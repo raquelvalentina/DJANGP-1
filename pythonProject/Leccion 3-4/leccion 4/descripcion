@@ -1,0 +1,30 @@
+video #24: Operadores aritmeticos +, -, *, /, //, **, %. suma de variables, dos formas de mostrar el pritn - variables (f"bla {variable}")
+
+video #25: Operadores aritmeticos 2, resta de variables, multiplicacion de variables, division de variables,
+ // division devolvera el entero. % residuo de la division, exponenciacion.
+
+
+video #26: Ejercicio Area y perimetro de un triangulo. Area: h *ancho, perimetro: (h+ancho)*2
+
+video #28: operadores de asignacion en python, =, operadores de reasignacion
+
+mivarible = 4
+
+print (mivariable)
+
+mivariable = mivariable 1  /// mivariable +=1 /// -= /// *= /// /= 
+
+print (mivariable)
+
+videio #29: Operaddores de comparacion, ==, !=, >, >=, <, <=
+a = 2
+b =4
+
+resultado = a ==b
+pritn (f" resultado ==: {resultado}")
+resultado = a !=b
+pritn (f" resultado !=: {resultado}")
+resultado = a > b
+pritn (f" resultado >: {resultado}")
+
+video #30: Ejercicio
