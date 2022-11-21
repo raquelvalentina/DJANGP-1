@@ -8,24 +8,27 @@ class emplL:
         self.sld = sld
 
     def __str__(self):
-        return f'{self.name}, {self.sld} '
+        return f'Nombre del empleado: [{self.name}], salario del empleado: [{self.sld}] '
 
 class grnt(emplL):
-    def __init__(self,name, sld, empl):
-        super().__init__(name,sld)
+    def __init__(self, name, sld, empl):
+        super().__init__(name, sld)
         self.empl = empl
     def __str__(self):
-        return f'{self.empl}, {super().__str__()}'
+        return f'CAMPO: [{self.empl}], {super().__str__()}'
 
 def prnt (obj):
     print(obj.__str__())
+
+    '''si el obj pertenece a la clase GeReNTe imprimira los atributos indicados del objeto'''
     if isinstance(obj, grnt):
         print(obj.empl)
+        print(obj.name)
+        print(obj.sld)
 
-ll = emplL('rauqle', 450)
+ll = emplL('RAQUEL', 450)
 prnt(ll)
-print(ll)
 
-lk = grnt('rauqle', 450, 'sis')
+
+lk = grnt('FABIO', 0, 'sis')
 prnt(lk)
-print(lk)
